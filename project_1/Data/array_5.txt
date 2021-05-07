@@ -1,0 +1,3 @@
+(20, 8):  START NODE 
+(80, 89):   GOAL NODE 
+ 

@@ -1,0 +1,11 @@
+
+
+
+Array 1: Solved in: 270 moves
+
+Solver Complete: 
+
+	Total Number of grids: 1
+	Total number of grids SOLVED: 1
+	Total number of grids FAILED: 0
+TOTAL RUNTIME WAS: --- 0.9108011722564697 seconds ---

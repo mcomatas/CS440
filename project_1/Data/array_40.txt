@@ -1,0 +1,3 @@
+(33, 0):  START NODE 
+(45, 73):   GOAL NODE 
+ 
